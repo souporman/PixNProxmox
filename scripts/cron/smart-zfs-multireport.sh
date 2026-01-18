@@ -21,11 +21,11 @@ PVEVERSION="$(command -v pveversion || true)"
 # ============================================================================
 
 # Email Configuration
-email="${email:-souporman@gmail.com}"
+email="${email:-email@email.com}"
 subject_prefix="${subject_prefix:-Proxmox SMART/ZFS Multi-Report}"
 
 # Discord Configuration
-discord_webhook="${discord_webhook:-https://discord.com/api/webhooks/1452810752044957818/tJ9_jSoJ3hwAba8YRMgWV1iPJCxK7HYUDbOES9q3fQogmhMKdNRypoMFJpIGvM61p5IE}"  # Set to your webhook URL to enable Discord
+discord_webhook="${discord_webhook:-https://discord.com/api/webhooks/}"  # Set to your webhook URL to enable Discord
 discord_enabled="${discord_enabled:-true}"
 
 # Only send Discord when something is not OK
