@@ -1,6 +1,6 @@
 # PixNProxmox
 
-Scripts and configs I use to monitor/manage a Proxmox server (ZFS-friendly).
+Scripts and configs I use to monitor a Proxmox server (ZFS-friendly).
 
 ## Structure
 - `scripts/cron/` – scripts intended to run from cron
