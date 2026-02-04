@@ -1,4 +1,4 @@
-# PixNProxmox 🧠💾  
+# PixNProxmox 
 ZFS-aware SMART testing + a daily SMART/ZFS health multi-report for **Proxmox** hosts.
 
 This repo contains two cron-friendly scripts:
